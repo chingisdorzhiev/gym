@@ -1,6 +1,6 @@
 {
-  "homepage": "https://github.com/chingisdorzhiev/gym-typescript.git",
-  "name": "gym-typescript",
+  "homepage": "https://github.com/chingisdorzhiev/gym.git",
+  "name": "gym",
   "private": true,
   "version": "0.0.0",
   "type": "module",
